@@ -1,0 +1,18 @@
+object Versions {
+    const val gradle = "4.2.2"
+    const val buildGradle = "7.0.3"
+    const val kotlin = "1.5.20"
+    const val jUnit = "4.13.2"
+    const val mockk = "1.12.0"
+    const val hamcrest = "1.3"
+    const val mockito = "3.7.7"
+    const val androidTesting = "2.1.0"
+    const val mockitoKotlin = "2.2.0"
+    const val mockitoInline = "4.0.0"
+    const val coreKtx = "1.7.0"
+    const val appCompat = "1.3.1"
+    const val androidMaterial = "1.4.0"
+    const val constraintLayout = "2.1.1"
+    const val extJUnit = "1.1.3"
+    const val espresso = "3.4.0"
+}
